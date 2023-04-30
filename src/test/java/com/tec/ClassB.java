@@ -12,6 +12,20 @@ public class ClassB {
 		System.out.println("C");
 
 	}
+
+	
+
+	private void method4() {
+		System.out.println("D");
+	}
+	private void method5() {
+		System.out.println("E");
+
+	}
+	private void method6() {
+		System.out.println("D");
+
+	}
 	private void method10() {
 		System.out.println("1");
 	}
@@ -23,5 +37,7 @@ public class ClassB {
 		System.out.println("3");
 
 	}
+
+
 
 }
